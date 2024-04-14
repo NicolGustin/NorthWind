@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.ConsoleApp", "Nor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Writers", "NorthWind.Writers\NorthWind.Writers.csproj", "{AA479841-9E79-438C-AAA4-1D48B408F3C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.IoC", "NorthWind.IoC\NorthWind.IoC.csproj", "{AFCEE0F1-0131-48EF-9307-BB0426B52682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Core", "NorthWind.Core\NorthWind.Core.csproj", "{0E7D9867-7EBF-4953-B3C4-1848BE133EAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{AA479841-9E79-438C-AAA4-1D48B408F3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA479841-9E79-438C-AAA4-1D48B408F3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA479841-9E79-438C-AAA4-1D48B408F3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCEE0F1-0131-48EF-9307-BB0426B52682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCEE0F1-0131-48EF-9307-BB0426B52682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCEE0F1-0131-48EF-9307-BB0426B52682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCEE0F1-0131-48EF-9307-BB0426B52682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7D9867-7EBF-4953-B3C4-1848BE133EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7D9867-7EBF-4953-B3C4-1848BE133EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7D9867-7EBF-4953-B3C4-1848BE133EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7D9867-7EBF-4953-B3C4-1848BE133EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
