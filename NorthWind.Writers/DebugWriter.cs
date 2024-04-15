@@ -1,6 +1,4 @@
-﻿using NorthWind.Entities.NorthWind.Entities.ValueObjects;
-
-namespace NorthWind.Writers
+﻿namespace NorthWind.Writers
 {
     internal class DebugWriter : IUserActionWriter
     {

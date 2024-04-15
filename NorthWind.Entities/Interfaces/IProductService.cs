@@ -1,4 +1,4 @@
-﻿namespace NorthWind.Entities.NorthWind.Entities.Interfaces
+﻿namespace NorthWind.Entities.Interfaces
 {
     public interface IProductService
     {
